@@ -18,7 +18,7 @@ I'm [Aman Seelay](https://seelay.in) a 21 y.o. Creative Designer , Full Stack We
 
 **🐱 My Github Data** 
 
-> 🏆 0 Contributions in the Year 2021
+> 🏆 6 Contributions in the Year 2021
  > 
 > 📦 34.2 kB Used in Github's Storage 
  > 
